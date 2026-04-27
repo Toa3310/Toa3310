@@ -5,3 +5,4 @@
 - 趣味: アニメ、ゲーム、音楽
 - 今まで経験した言語: Python, C, Java
 - 最近は自分のスキル向上のため、webアプリの製作を行っています
+- 今までの成果物(ポートフォリオ)は https://github.com/Toa3310/tentative_portfolio に載せています
